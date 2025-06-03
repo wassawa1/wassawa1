@@ -17,4 +17,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wassawa1&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=wassawa1&theme=tokyonight)](https://git.io/streak-stats)  
-[![GitHub Activity Graph](https://github
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wassawa1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
