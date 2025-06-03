@@ -12,3 +12,9 @@
   I enjoy building small tools and scripts to automate work.
 - 技術や知識をチーム内で共有するのが好きです  
   I like to share ideas and know-how with my teammates.
+
+### 🔍 活動状況 / Activity Overview
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wassawa1&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=wassawa1&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Activity Graph](https://github
