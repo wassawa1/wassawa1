@@ -2,9 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassawa1&layout=compact&langs_count=8&theme=tokyonight)
 
-※ GitHub上の公開リポジトリに基づく表示です  
-(*Based on public repositories on GitHub*)
-
 ### 🔍 活動状況 / Activity Overview
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wassawa1&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)  
