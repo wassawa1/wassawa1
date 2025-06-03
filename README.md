@@ -1,16 +1,14 @@
-## Hi there 👋
+### 📊 よく使っている言語 / Top Languages
 
-<!--
-**wassawa1/wassawa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassawa1&layout=compact&langs_count=8&theme=tokyonight)
 
-Here are some ideas to get you started:
+※ GitHub上の公開リポジトリに基づく表示です  
+(*Based on public repositories on GitHub*)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ✏️ 少しだけ / A little about me
+
+- 自動化や小さなツール作りが好きです  
+  I enjoy building small tools and scripts to automate work.
+- 技術や知識をチーム内で共有するのが好きです  
+  I like to share ideas and know-how with my teammates.
